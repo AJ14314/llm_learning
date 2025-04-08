@@ -45,3 +45,5 @@ stocks_v2/
 stock_analysis/
 
 *.wav
+
+vector_db/
