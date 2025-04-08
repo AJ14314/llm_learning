@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+ipython_config.py
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+llms/
+llms.bak/
+
+# VS Code
+.vscode/
+
+# Model files and caches
+model_cache/
+vector_db/
+products_vectorstore/
+*.pkl
+
+# Gradio
+.gradio/
+/.gradio
+
+# Mac OS
+.DS_Store
+/.DS_Store
+
+# Diagnostic files
+**/report.txt
+
+# Stock analysis folders
+stocks_v2/
+stock_analysis/
+
+*.wav

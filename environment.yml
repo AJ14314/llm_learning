@@ -1,0 +1,57 @@
+name: llms_learnings
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - python-dotenv
+  - requests
+  - numpy
+  - pandas
+  - scipy
+  - pytorch
+  - jupyterlab
+  - ipywidgets
+  - matplotlib
+  - scikit-learn
+  - chromadb
+  - jupyter-dash
+  - sentencepiece
+  - pyarrow
+  - faiss-cpu
+  - pip:
+    - accelerate
+    - anthropic
+    - beautifulsoup4
+    - bitsandbytes
+    - datasets
+    - diffusers
+    - faiss-cpu
+    - feedparser
+    - gensim
+    - google-genai
+    - google-generativeai
+    - gradio
+    - langchain
+    - langchain-chroma
+    - langchain-community
+    - langchain-core
+    - langchain-openai
+    - langchain_google_genai
+    - langchain-text-splitters
+    - modal
+    - ollama
+    - openai
+    - plotly
+    - psutil
+    - pydub
+    - sentence-transformers
+    - setuptools
+    - soundfile
+    - speedtest-cli
+    - torch
+    - transformers
+    - twilio
+    - yfinance
+
