@@ -1,4 +1,4 @@
-name: llms_learnings
+name: llm_learnings
 channels:
   - conda-forge
   - defaults
@@ -43,6 +43,7 @@ dependencies:
     - modal
     - ollama
     - openai
+    - peft
     - plotly
     - psutil
     - pydub
