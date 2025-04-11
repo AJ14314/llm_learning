@@ -52,7 +52,9 @@ dependencies:
     - soundfile
     - speedtest-cli
     - torch
+    - trl
     - transformers
     - twilio
+    - wandb
     - yfinance
 

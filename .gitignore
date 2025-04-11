@@ -47,3 +47,8 @@ stock_analysis/
 *.wav
 
 vector_db/
+
+pricer-*
+wandb/
+
+__pycache__/
