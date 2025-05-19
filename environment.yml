@@ -40,8 +40,11 @@ dependencies:
     - langchain-openai
     - langchain_google_genai
     - langchain-text-splitters
+    - langchain-graph-retriever
+    - langchain-huggingface
     - modal
     - ollama
+    - openrouter
     - openai
     - peft
     - plotly
